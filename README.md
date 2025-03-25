@@ -11,7 +11,7 @@ Key implementations:
 - ✅ User and Group Management
 
 These practices help reduce unauthorized access risk and align with enterprise security standards.
-
+Please view full project here https://jonahdoesit.github.io/Secure-Access-with-Azure-/
 ---
 
 ## 🧱 Project Steps
