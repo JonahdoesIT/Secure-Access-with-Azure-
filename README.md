@@ -91,29 +91,6 @@ Please view full project here https://jonahdoesit.github.io/Secure-Access-with-A
 
 ---
 
-## 📷 Screenshots
-![Screenshot 2025-03-13 151259](https://github.com/user-attachments/assets/b3a324c5-2a8d-4fa2-a484-9b4a17f1cb3b)
-![Screenshot 2025-03-13 154530](https://github.com/user-attachments/assets/c33a8ec2-fbd2-41b8-8144-18d72c457938)
-![Screenshot 2025-03-13 155918](https://github.com/user-attachments/assets/e94e5ba9-966d-49e0-849f-1cb953f97952)
-![Screenshot 2025-03-13 160255](https://github.com/user-attachments/assets/461e2f73-6d60-41c4-800f-6885150eaea3)
-![Screenshot 2025-03-13 161239](https://github.com/user-attachments/assets/2eb6b8ec-73bc-4f84-ba40-5198ff471ee2)
-![Screenshot 2025-03-13 162920](https://github.com/user-attachments/assets/a8a33f0b-a672-47ad-98bb-7d43ccc26259)
-![Screenshot 2025-03-13 163123](https://github.com/user-attachments/assets/5bfd14f8-c7e6-488a-9fff-69054da5e9b8)
-![Screenshot 2025-03-13 163814](https://github.com/user-attachments/assets/3b0ccb56-59c9-41df-bda7-69faaf78ab0f)
-![Screenshot 2025-03-13 164020](https://github.com/user-attachments/assets/7a141fa0-eb99-4281-b8e4-424e1df297f8)
-![Screenshot 2025-03-13 164539](https://github.com/user-attachments/assets/62ba4e3e-1ee0-47d9-8bbe-963e70e2d4eb)
-![Screenshot 2025-03-13 164731](https://github.com/user-attachments/assets/d84e08eb-0a70-4d4b-8f28-314fd499f718)
-![Screenshot 2025-03-13 165255](https://github.com/user-attachments/assets/31fbeed2-20f4-4779-aaf6-6c720584c789)
-![Screenshot 2025-03-13 165339](https://github.com/user-attachments/assets/bcc4bb02-e52f-44e7-9a59-601bc6d72303)
-![Screenshot 2025-03-13 201821](https://github.com/user-attachments/assets/9003714e-9693-4acf-b841-91b68f598b2a)
-![Screenshot 2025-03-13 202118](https://github.com/user-attachments/assets/f891957b-af26-4744-84ac-719a9d34f069)
-![Screenshot 2025-03-13 203134](https://github.com/user-attachments/assets/f6370bfb-fe20-47de-98eb-fb3409b945a8)
-![Screenshot 2025-03-13 203601](https://github.com/user-attachments/assets/23aec7a7-010c-4203-8906-22f57bcdd8ce)
-![Screenshot 2025-03-13 204008](https://github.com/user-attachments/assets/db081952-99a5-4590-b50e-3283580086f8)
-![Screenshot 2025-03-13 204311](https://github.com/user-attachments/assets/28993194-b8ec-4957-8ab6-47ef77f49120)
-![Screenshot 2025-03-13 204933](https://github.com/user-attachments/assets/7e1db556-6547-42bb-b064-7812bd9d126b)
-![Screenshot 2025-03-13 205259](https://github.com/user-attachments/assets/d3ce1d8a-9874-4244-bb1f-4336a24b5b87)
-
 
 ---
 
